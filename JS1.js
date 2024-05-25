@@ -21,4 +21,4 @@ mintNFT("Jet", "Blur", "White", "Knife");
 mintNFT("Raze", "Blue", "Black", "BoomBot");
 mintNFT("Neon", "Green", "Red", "Launcher");
 listNFTs();
-console.log( + getTotalSupply() + " NFTs Minted Successfully!");
+console.log(getTotalSupply() + " NFTs Minted Successfully!");
